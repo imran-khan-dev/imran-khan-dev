@@ -32,8 +32,9 @@ I build **fast, accessible, and responsive web applications** that solve real pr
 ---
 
 ## 📈 GitHub Stats
-
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&hide_border=true)
+<p>
+  <img src="https://streak-stats.demolab.com?user=imran-khan-dev&hide_border=true" />
+</p>
 
 ---
 
