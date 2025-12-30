@@ -47,6 +47,6 @@ I aim to **continuously grow as a full-stack developer**, building real-world ap
 ## 📫 Contact Me
 
 - **Email:** emranniloy84@email.com  
-- **LinkedIn:** [linkedin.com/in/imrankhan](https://www.linkedin.com/in/imran-khan-fullstack)  
+- **LinkedIn:** [linkedin.com/in/imran-khan-dev-fullstack](https://www.linkedin.com/in/imran-khan-dev-fullstack)  
 - **Portfolio:** [portfolio-imran-deploy.vercel.app](https://portfolio-imran-deploy.vercel.app)  
 
