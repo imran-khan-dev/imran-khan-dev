@@ -1,39 +1,51 @@
-<!-- 5. Banner / Cover Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Imran%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- Banner / Cover Image -->
+![Banner](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=1350&q=80)
+
+# Hi, I'm Imran Khan 👋  
+**Full Stack Developer | MERN & Next.js | Passionate about building clean, scalable web apps**
+
+I build **fast, accessible, and responsive web applications** that solve real problems. My focus is on **clean architecture, reusable components, and efficient code**.  
+
+🎯 **Portfolio:** [https://portfolio-imran-deploy.vercel.app](https://portfolio-imran-deploy.vercel.app)  
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </p>
 
 ---
 
-## 👋 Hi, I'm Imran Khan
-
-<!-- 6. Short description of what you do -->
-I’m a **Full Stack Developer** focused on building scalable, clean, and maintainable web applications.  
-I enjoy solving real-world problems through thoughtful system design, clean architecture, and efficient code.
-
----
-
-## 🛠️ Technologies I Work With
-
-<!-- 7. Technology logos -->
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,nodejs,express,postgres,mongodb,prisma,tailwind,git,github,figma" />
-</p>
-
----
-
-## 📊 GitHub Activity & Stats
+## 📈 GitHub Stats
 
 ![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&hide_border=true)
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=imran-khan-dev&hide_border=true" />
-</p>
+---
 
+## 🌱 My Vision
+
+I aim to **continuously grow as a full-stack developer**, building real-world applications, learning modern technologies, and contributing to the open-source community. My goal is to create projects that are **efficient, maintainable, and impactful**.  
 
 ---
 
-## 🌐 Portfolio & Contact
-- Portfolio: https://portfolio-imran-deploy.vercel.app/
-- GitHub: https://github.com/imran-khan-dev
-- LinkedIn: https://linkedin.com/in/imran-khan-fullstack
+## 📫 Contact Me
+
+- **Email:** imrankhan.dev@email.com  
+- **LinkedIn:** [linkedin.com/in/imrankhan](https://www.linkedin.com/in/imrankhan)  
+- **Portfolio:** [portfolio-imran-deploy.vercel.app](https://portfolio-imran-deploy.vercel.app)  
+
