@@ -24,14 +24,14 @@ I enjoy solving real-world problems through thoughtful system design, clean arch
 
 ## 📊 GitHub Activity & Stats
 
-<!-- 8. GitHub commit & activity status -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&count_private=true&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-khan-dev&theme=react" />
+  <img src="https://streak-stats.demolab.com?user=imran-khan-dev&hide_border=true" />
 </p>
+
 
 ---
 
