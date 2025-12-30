@@ -1,5 +1,5 @@
 <!-- Banner / Cover Image -->
-![Banner](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://imgur.com/a/xCQt6nl)
 
 # Hi, I'm Imran Khan 👋  
 **Full Stack Developer | MERN & Next.js | Passionate about building clean, scalable web apps**
