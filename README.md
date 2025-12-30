@@ -24,9 +24,7 @@ I enjoy solving real-world problems through thoughtful system design, clean arch
 
 ## 📊 GitHub Activity & Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&count_private=true&hide_border=true" />
-</p>
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-khan-dev&show_icons=true&count_private=true&hide_border=true)
 
 <p>
   <img src="https://streak-stats.demolab.com?user=imran-khan-dev&hide_border=true" />
