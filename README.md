@@ -32,9 +32,8 @@ I build **fast, accessible, and responsive web applications** that solve real pr
 ---
 
 ## 📈 GitHub Stats
-<p>
-  <img src="https://streak-stats.demolab.com?user=imran-khan-dev&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imran-khan-dev&hide_border=true)
+
 
 ---
 
